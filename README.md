@@ -12,10 +12,10 @@ Folder Structure:
 Data dictionary.png: This image gives a overview about features we are dealing with, it is included in EDA_DataTransformation.ipynb notebook.
 
 1. Dataset Information
-1.1 Titanic Train.csv: This dataset is used for model training and evaluation.
-1.2 Titanic Test.csv: This is a validation dataset, used for final predictions.
-1.3 training_dataafterEDA.csv: This dataset is constructed after initial exploaratory data analysis and includes minor modifications.
-1.4 test_data_afterEDA.csv: This dataset is constructed after initial exploaratory data analysis on validation dataset and includes minor modifications.
+  1.1 Titanic Train.csv: This dataset is used for model training and evaluation.
+  1.2 Titanic Test.csv: This is a validation dataset, used for final predictions.
+  1.3 training_dataafterEDA.csv: This dataset is constructed after initial exploaratory data analysis and includes minor modifications.
+  1.4 test_data_afterEDA.csv: This dataset is constructed after initial exploaratory data analysis on validation dataset and includes minor modifications.
 
 1.5 training_data_algorithm.csv: This is the final training dataset which is constructed after performing Data Cleaning, outlier detection, handling missing values and Data transformation. This is then used for algorithm training.
 1.6 test_data_algorithm.csv: This is the final validation dataset which is constructed after performing Data Cleaning, outlier detection, handling missing values and Data transformation. Final predictions are made on this dataset.
