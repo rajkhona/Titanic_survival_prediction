@@ -13,9 +13,9 @@ Data dictionary.png: This image gives a overview about features we are dealing w
 
 1. Dataset Information
 	
-	1.1 Titanic Train.csv: This dataset is used for model training and evaluation.
+	1.1 Titanic Train.csv: Training dataset.
 	
-	1.2 Titanic Test.csv: This is a validation dataset, used for final predictions.
+	1.2 Titanic Test.csv: validation dataset.
   	
 	1.3 training_dataafterEDA.csv: This dataset is constructed after initial exploaratory data analysis and includes minor modifications.
   	
